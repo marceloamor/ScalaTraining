@@ -1,0 +1,5 @@
+package logTest
+
+object helloWorldWithLog {
+
+}
