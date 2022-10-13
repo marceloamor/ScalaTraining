@@ -1,5 +1,4 @@
-package com.scala.mixTraits
-
+package mixTraits
 
 trait Print{
   def print(): Unit

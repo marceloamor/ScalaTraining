@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 class Arithmetic {
   def add(a: Int, b: Int): Unit = {

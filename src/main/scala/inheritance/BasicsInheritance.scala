@@ -1,4 +1,4 @@
-package com.scala.inheritance
+package inheritance
 
 object BasicsInheritance extends App{
   new BusinessPerson

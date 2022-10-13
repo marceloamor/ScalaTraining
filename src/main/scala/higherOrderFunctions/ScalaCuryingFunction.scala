@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 class ScalaCuryingFunction extends App {
   val result = add(10)(10)

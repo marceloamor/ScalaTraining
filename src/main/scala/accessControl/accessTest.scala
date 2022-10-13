@@ -1,4 +1,4 @@
-package com.scala.accessControl
+package accessControl
 
 class AccessExample{
   private var a: Int = 10

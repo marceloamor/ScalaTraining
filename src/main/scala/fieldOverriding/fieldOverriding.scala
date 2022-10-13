@@ -1,4 +1,4 @@
-package com.scala.fieldOverriding
+package fieldOverriding
 
 // overriding is a permanent thing, use it when you know you never want to get the base value again
 // or want to keep it private for any reason

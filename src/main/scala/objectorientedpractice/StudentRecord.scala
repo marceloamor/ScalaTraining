@@ -1,4 +1,4 @@
-package com.scala.objectorientedpractice
+package objectorientedpractice
 
 class StudentRecord (id:Int,name:String){
   def getRecord() : Unit = {

@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 class Student {
   var id: Int = 0;

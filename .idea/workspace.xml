@@ -4,14 +4,170 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2099632-3256-4e28-8c60-58c62e579387" name="Changes" comment="" />
+    <list default="true" id="e2099632-3256-4e28-8c60-58c62e579387" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/JineshSolutionToMapping/MatchNumbers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/JineshSolutionToMapping/mappingToInt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/bitSet/bitSetpractice1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/bitSet/manipulatingBitSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/listSet/listSet1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/sequences/sequences1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/sets/iterateOverSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/sets/sets1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/sets/sets2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/sets/sortSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/vectors/vectors1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/hashSets/HashSetpractice1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/hashSets/hashSetString.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/fibonacci.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/typeHierarchy/MatchNumbersWNone.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/typeHierarchy/typeHierarchy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/newSBTProject-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/newSBTProject-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/newSBTProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/newSBTProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/DefaultValFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/DefaultValFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/RecursionPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/RecursionPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/functionCall.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ScalaFunctions/functionCall.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/abstractClass/abstractClassMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/abstractClass/abstractClassMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/abstractClass/abstractlClassDetail.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/abstractClass/abstractlClassDetail.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/accessControl/accessTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/accessControl/accessTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/accessControl/accessTest2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/accessControl/accessTest2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/arrays/practiceArray1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/arrays/practiceArray1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/arrays/practiceArray2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/arrays/practiceArray2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/breaktesting/breaks.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/breaktesting/breaks.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/collections/iterateOverSet.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/collections/sets1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/collections/sets2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/collections/sortSets.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/constructors/DefaultConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/constructors/DefaultConstructor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/constructors/PrimaryConstructors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/constructors/PrimaryConstructors.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/constructors/SecondaryConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/constructors/SecondaryConstructor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/constructors/ThisExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/constructors/ThisExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/constructors/threeConstructors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/constructors/threeConstructors.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/controlstructure/ForLoops.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/controlstructure/ForLoops.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/controlstructure/LoopsContinuous.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/controlstructure/LoopsContinuous.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/controlstructure/WhileLoops.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/controlstructure/WhileLoops.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/controlstructure/controlstructure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/controlstructure/controlstructure.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/controlstructure/ternaryOperators.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/controlstructure/ternaryOperators.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/createException.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/createException.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/exceptionExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/exceptionExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/exceptionExample2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/exceptionExample2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/exceptionExampleTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/exceptionExampleTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/exceptionTest3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/exceptionTest3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/exceptionTest4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/exceptionTest4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exception/throwException.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exception/throwException.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fieldOverriding/fieldOverriding.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fieldOverriding/fieldOverriding.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/finaltest/FinalMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/finaltest/FinalMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/AnonymousFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/AnonymousFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/HigherOrderPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/HigherOrderPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/MultilineExpression.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/MultilineExpression.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/NestedFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/NestedFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaComposition.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaComposition.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaCurryingFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaCurryingFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaCuryingFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/ScalaCuryingFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/VariableLengthParameter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/higherOrderFunctions/VariableLengthParameter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/inheritance/BasicsInheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/inheritance/BasicsInheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/inheritance/MultiLevelInheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/inheritance/MultiLevelInheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/list/BasicList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/list/BasicList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/logTest/helloWorldWithLog.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/logTest/helloWorldWithLog.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/mapping/mapping.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mapping/mapping.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/methodOverloading/LazyEvaluation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/methodOverloading/LazyEvaluation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/methodOverloading/mathsComputation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/methodOverloading/mathsComputation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/methodOverriding/methodOverriding.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/methodOverriding/methodOverriding.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/methodOverriding/methodOverridingPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/methodOverriding/methodOverridingPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/mixTraits/mixTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mixTraits/mixTraits.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/multidimensionalArray/AddingMultiDims.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/multidimensionalArray/AddingMultiDims.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/multidimensionalArray/MultiDimensionalArray.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/multidimensionalArray/MultiDimensionalArray.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/Arithmetic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/Arithmetic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/CompanionObject.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/CompanionObject.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/ExecuteClass2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/ExecuteClass2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/MainCaseClass.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/MainCaseClass.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/Student.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/Student.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectoriented/singleton.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectoriented/singleton.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objectorientedpractice/StudentRecord.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objectorientedpractice/StudentRecord.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/operators/OperatorsPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/operators/OperatorsPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/patternmatching/MatchNumbers.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/patternmatching/MatchNumbers.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/patternmatching/MixTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/patternmatching/MixTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/newnewtestest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/newnewtestest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/newtesttest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/newtesttest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/pastryChallenge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/pastryChallenge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/shoppingCartChallenge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/shoppingCartChallenge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/vehicleChallenge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/OOPproblems/vehicleChallenge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/anagramofStrings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/anagramofStrings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/groupTheAnagrams.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/groupTheAnagrams.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/longestSubstring.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/longestSubstring.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/oneExtraLetter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/oneExtraLetter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/removeDuplicatesFromArray.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/removeDuplicatesFromArray.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/shapesPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/shapesPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/sumOfStrings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/sumOfStrings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/vehiclePractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/classChallenges/vehiclePractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/miniassignment2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/miniassignment2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/practice3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/practice3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/practice4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/practice4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceproblems/tempPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceproblems/tempPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/strings/StringExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/strings/StringExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/strings/stringComparison.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/strings/stringComparison.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/strings/stringInterpolation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/strings/stringInterpolation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/strings/stringTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/strings/stringTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/traits/multipleInheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/traits/multipleInheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/traits/traitPractice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/traits/traitPractice.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/variables/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/variables/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/variables/variables/Variables.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/variables/variables/Variables.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="newSBTProject" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="newSBTProject" type="f1a62948:ProjectNode" />
+                <item name="newSBTProject" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="newSBTProject" type="f1a62948:ProjectNode" />
+                <item name="newSBTProject" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -22,12 +178,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/44799/IdeaProjects/newSBTProject/src/main/scala&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;sbt.project.settings.configurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\44799\IdeaProjects\newSBTProject\src\main\scala" />
+      <recent name="C:\Users\44799\IdeaProjects\newSBTProject\src\main\scala\abstractClass" />
+      <recent name="C:\Users\44799\IdeaProjects\newSBTProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mappingToInt">
+    <configuration name="JineshSolutionToMapping.MatchNumbers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JineshSolutionToMapping.MatchNumbers" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JineshSolutionToMapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchNumbers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="typeHierarchy.MatchNumbers" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeHierarchy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mappingToInt" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JineshSolutionToMapping.mappingToInt" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JineshSolutionToMapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sequences1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.sequences.sequences1" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.sequences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vectors1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.vectors.vectors1" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.vectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mappingToInt" />
+        <item itemvalue="Application.vectors1" />
+        <item itemvalue="Application.sequences1" />
+        <item itemvalue="Application.JineshSolutionToMapping.MatchNumbers" />
+        <item itemvalue="Application.MatchNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,5 +280,31 @@
       <updated>1665479188994</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/typeHierarchy/typeHierarchy.scala</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

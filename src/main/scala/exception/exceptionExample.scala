@@ -1,4 +1,4 @@
-package com.scala.exception
+package exception
 
 class exceptionExample {
   def divide(a:Int, b:Int) ={

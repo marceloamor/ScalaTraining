@@ -1,4 +1,4 @@
-package com.scala.strings
+package strings
 
 object CompareString extends App {
   new stringComparison().show()

@@ -1,4 +1,4 @@
-package com.scala.constructors
+package constructors
 
 class SecondaryConstructor(id:Int, name:String) {
   var age:Int=0

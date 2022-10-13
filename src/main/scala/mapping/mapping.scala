@@ -1,4 +1,4 @@
-package com.scala.mapping
+package mapping
 
 object mapping {
     def add(x:Int, y:Int) = x + y;

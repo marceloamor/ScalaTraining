@@ -1,4 +1,4 @@
-package com.scala.arrays
+package arrays
 
 class practiceArray1 {
   //one way to declare array

@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 //Useful way to write lightweight one off functions
 

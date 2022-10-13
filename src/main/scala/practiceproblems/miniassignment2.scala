@@ -1,6 +1,10 @@
-package com.scala.practiceproblems
+package practiceproblems
+
+import scala.collection.mutable.{ArrayBuffer, ListBuffer}
 
 object miniassignment2 extends App {
+
+
 
   //user input practice
  /* println("Type Your name: ")

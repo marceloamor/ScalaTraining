@@ -1,4 +1,4 @@
-package com.scala.operators
+package operators
 
 object OperatorsPractice extends App {
 

@@ -1,5 +1,4 @@
-package com.scala.practiceproblems.classChallenges
-
+package practiceproblems.classChallenges
 
 //NOT DONE!!
 

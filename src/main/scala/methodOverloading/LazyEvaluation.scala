@@ -1,4 +1,4 @@
-package com.scala.methodOverloading
+package methodOverloading
 
 //lazy variables are only instantiated when they are used, until then they are not
 

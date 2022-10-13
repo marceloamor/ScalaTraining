@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 object ExecuteClass2 extends App {
   var s = new Student1( id = 100, name = "Marcelo")

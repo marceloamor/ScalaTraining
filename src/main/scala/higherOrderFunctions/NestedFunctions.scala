@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 object NestedFunctions extends App {
 def add(a:Int,b:Int,c:Int): Int ={

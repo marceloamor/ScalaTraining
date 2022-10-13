@@ -1,4 +1,4 @@
-package com.scala.patternmatching
+package patternmatching
 
 object MatchNumbers extends App {
 var a=1.0

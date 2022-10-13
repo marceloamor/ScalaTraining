@@ -1,4 +1,4 @@
-package com.scala.variables.variables
+package variables.variables
 
 object Variables extends App {
 

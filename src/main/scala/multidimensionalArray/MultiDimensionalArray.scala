@@ -1,4 +1,4 @@
-package com.scala.multidimensionalArray
+package multidimensionalArray
 
 object MultiDimensionalArray extends App {
 

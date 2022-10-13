@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 //case class CaseClass(parameters)
 trait Car

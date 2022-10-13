@@ -1,4 +1,4 @@
-package com.scala.practiceproblems
+package practiceproblems
 
 object tempPractice extends App {
   var lowNum: Int = 100

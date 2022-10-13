@@ -1,4 +1,4 @@
-package com.scala.controlstructure
+package controlstructure
 
 object ternaryOperators {
   def main(args:Array[String]): Unit ={

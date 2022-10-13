@@ -1,4 +1,4 @@
-package com.scala.patternmatching
+package patternmatching
 
 object MixTypes {
   def main(args:Array[String]): Unit ={

@@ -1,4 +1,4 @@
-package com.scala.exception
+package exception
 
 object mainExceptionTest extends App {
   new exceptionExample2().divide(100,10)

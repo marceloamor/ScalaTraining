@@ -1,4 +1,4 @@
-package com.scala.abstractClass
+package abstractClass
 
 abstract class Bike(a:Int){
   var b:Int=20

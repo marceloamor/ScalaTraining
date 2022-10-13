@@ -1,4 +1,4 @@
-package com.scala.ScalaFunctions
+package ScalaFunctions
 
 object functionCall {
   def main(args: Array[String]): Unit = {

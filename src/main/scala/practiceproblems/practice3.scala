@@ -1,4 +1,5 @@
-package com.scala.practiceproblems
+package practiceproblems
+
 import scala.util.control.Breaks._
 
 

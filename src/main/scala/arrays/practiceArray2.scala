@@ -1,5 +1,4 @@
-package com.scala.arrays
-
+package arrays
 
 //default initialised values for an array of Ints and Longs is 0
 // for Doubles and Floats it 0.0

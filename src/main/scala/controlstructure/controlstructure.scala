@@ -1,4 +1,4 @@
-package com.scala.controlstructure
+package controlstructure
 
 object controlstructure extends App {
 var score:Int=88

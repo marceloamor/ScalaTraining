@@ -1,4 +1,4 @@
-package com.scala.ScalaFunctions
+package ScalaFunctions
 
 // this is a factorial (!) function
 

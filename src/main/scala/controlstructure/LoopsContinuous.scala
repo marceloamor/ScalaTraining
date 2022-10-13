@@ -1,4 +1,4 @@
-package com.scala.controlstructure
+package controlstructure
 
 object LoopsContinuous extends App {
 /*

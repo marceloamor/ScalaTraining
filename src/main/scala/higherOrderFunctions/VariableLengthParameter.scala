@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 object VariableLengthParameter extends App {
 

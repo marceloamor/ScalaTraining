@@ -1,4 +1,4 @@
-package com.scala.constructors
+package constructors
 
 class PrimaryConstructors(i:Int,name:String) {
   def showDetails(): Unit = {

@@ -1,4 +1,4 @@
-package com.scala.methodOverloading
+package methodOverloading
 
 //adding multiple functions in a class that take different parameters
 //this chooses which method to apply depending on the parameters detected

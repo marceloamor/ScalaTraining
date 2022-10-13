@@ -1,4 +1,4 @@
-package com.scala.constructors
+package constructors
 
 class DefaultConstructor {
   println("Default Constructor")

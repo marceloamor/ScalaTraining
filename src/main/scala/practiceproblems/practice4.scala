@@ -1,4 +1,4 @@
-package com.scala.practiceproblems
+package practiceproblems
 
 object practice4 extends App {
 

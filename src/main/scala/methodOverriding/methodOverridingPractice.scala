@@ -1,7 +1,4 @@
-package com.scala.methodOverriding
-
-
-
+package methodOverriding
 
 class CentralBank {
   private val centralRate = 1

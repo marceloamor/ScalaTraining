@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 class CompanionClass {
   def hello(): Unit = {

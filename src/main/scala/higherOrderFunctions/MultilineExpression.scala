@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 object MultilineExpression extends App {
   println(add1(10,20))

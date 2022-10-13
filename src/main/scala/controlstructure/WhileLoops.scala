@@ -1,4 +1,4 @@
-package com.scala.controlstructure
+package controlstructure
 
 object WhileLoops extends App {
 var a = 10

@@ -1,4 +1,6 @@
-package com.scala.strings
+package strings
+
+
 
 //mini program to get username from user and validate it -- fix this later
 

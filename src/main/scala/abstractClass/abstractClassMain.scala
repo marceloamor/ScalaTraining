@@ -1,4 +1,5 @@
-package com.scala.abstractClass
+package abstractClass
+
 //abstract class is a class that is used as a template, but is not used to create instances of itself
 // an "expert" class because it just gives its own expertise but doesnt do
 

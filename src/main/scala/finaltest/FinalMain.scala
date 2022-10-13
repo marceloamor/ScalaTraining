@@ -1,5 +1,4 @@
-package com.scala.finaltest
-
+package finaltest
 
 //var is mutable
 //val is immutable but can be overriden

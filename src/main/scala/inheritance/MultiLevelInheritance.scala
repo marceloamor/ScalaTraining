@@ -1,4 +1,4 @@
-package com.scala.inheritance
+package inheritance
 
 trait fromA {
   var salaryTrait = 10

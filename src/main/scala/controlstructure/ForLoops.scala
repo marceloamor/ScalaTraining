@@ -1,4 +1,4 @@
-package com.scala.controlstructure
+package controlstructure
 
 object ForLoops extends App {
   /*to, which includes the last value*/

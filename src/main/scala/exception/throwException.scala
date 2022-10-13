@@ -1,4 +1,4 @@
-package com.scala.exception
+package exception
 
 class throwException {
   def validate(age:Int): Unit = {

@@ -1,5 +1,4 @@
-package com.scala.constructors
-
+package constructors
 
 class Student(id:Int, name:String){
   var age:Int = 0

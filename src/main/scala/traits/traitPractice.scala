@@ -1,4 +1,4 @@
-package com.scala.traits
+package traits
 
 trait Printable1{
   def Print()

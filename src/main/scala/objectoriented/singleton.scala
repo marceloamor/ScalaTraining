@@ -1,4 +1,4 @@
-package com.scala.objectoriented
+package objectoriented
 
 object singleton {
   def main(args:Array[String]): Unit ={

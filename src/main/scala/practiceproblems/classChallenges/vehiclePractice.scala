@@ -1,4 +1,4 @@
-package com.scala.practiceproblems.classChallenges
+package practiceproblems.classChallenges
 
 trait CarriesRider {
   var Rider = true

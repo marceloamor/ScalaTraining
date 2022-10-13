@@ -1,4 +1,4 @@
-package com.scala.constructors
+package constructors
 
 class ThisExample(name:String) {
   var id: Int = 0

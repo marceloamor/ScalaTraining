@@ -1,4 +1,4 @@
-package com.scala.strings
+package strings
 
 class StringExample {
   var s1 = "String Scala Example"

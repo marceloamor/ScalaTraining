@@ -1,4 +1,4 @@
-package com.scala.higherOrderFunctions
+package higherOrderFunctions
 
 object HigherOrderPractice {
   def main(args: Array[String]): Unit = {

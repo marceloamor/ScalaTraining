@@ -1,4 +1,4 @@
-package com.scala.methodOverriding
+package methodOverriding
 
 object methodOverriding extends App{
   var b = new Vehicle()

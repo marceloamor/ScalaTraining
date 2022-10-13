@@ -1,4 +1,4 @@
-package com.scala.strings
+package strings
 
 object stringInterpolation extends App{
   new StringExample2().show()
