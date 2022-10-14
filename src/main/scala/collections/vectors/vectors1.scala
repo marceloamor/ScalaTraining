@@ -25,6 +25,9 @@ object vectors1 extends App {
 
   var from1to100 = (1 to 100).toList
   from1to100.foreach(((elem:Int)=> println(elem)))
+
+  var arrayFrom1to50 = (1 to 300).toArray
+  arrayFrom1to50.foreach(println(_))
 }
 
 

@@ -8,12 +8,12 @@ class Student(ID:Int, firstName: String){
   var studentName = firstName
 }
 
-class PersonalDetails(NameV:String, ageT:Int){
-  var Name=NameV
-  var age=ageT
-}
 
 object mappingToInt extends  App{
+
+  var testStudent = new Student(0, "0 is not a valid ID")
+  var studentRegister: Map[Int, Student] = Map(testStudent.studentID -> testStudent) //a baseline student exists, this can be Admin in the BankingApp
+
   var option = ""
   while (option != "10") {
     println("Welcome to the student register. What would you like to do\n" +
@@ -38,13 +38,10 @@ object mappingToInt extends  App{
       }
       //getStudentName2())}
       case 3 => {} //seeStudents())}
+      case 10 => System.exit(10)
     }
   }
 
-
-  //var studentRegister: Map[Int, Student] = Map(newStudent.studentID -> newStudent) //need to update this without baseline student
-  var studentRegister = Map.empty[Int, Student]
-  println(studentRegister.isEmpty)
 
   def createNewStudent(ID: Int, firstName: String): Unit = {
     var newStudent = new Student(ID, firstName)
@@ -54,10 +51,13 @@ object mappingToInt extends  App{
 
   def getStudentName(studentRegister: Map[Int, Student], ID: Int): Unit = {
     var studentKeys = studentRegister.keys
+    var found = false
     for (a <- studentKeys) {
       if (a == ID) {
+        found = true
         println("Student ID: " + ID + "\nStudent Name: " +studentRegister(a).studentName)
       }
+      if (!found) {println("Invalid ID, Student not found")}
     }
   }
 
