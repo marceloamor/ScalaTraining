@@ -4,38 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2099632-3256-4e28-8c60-58c62e579387" name="Changes" comment="week two commit, added lots of collections in .collections package">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_compatible_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_core_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_diagrams_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_featurespec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_flatspec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_freespec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funspec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funsuite_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_matchers_core_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_mustmatchers_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_propspec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_refspec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_shouldmatchers_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_wordspec_2_13_3_2_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/thingsToTest/CubeCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/thingsToTest/stackTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/AnyFunSpec1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/AnyFunSuiteTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/CubeCalculatorTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/SetSpecsToTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/WordSpecTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/featureSpecTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/freeSpecTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/newSBTProject-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/newSBTProject-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/newSBTProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/newSBTProject.iml" afterDir="false" />
+    <list default="true" id="e2099632-3256-4e28-8c60-58c62e579387" name="Changes" comment="week two commit, added testing dependencies and carried out basic proof of concept tests on simple functions with each">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/maps/mapMethod.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/maps/maps1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/maps/mapsIteration.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/queues/priorityQueues.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/queues/queues1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/collections/tuples/tuples.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/enumeration/MilkyWay.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/enumeration/donutsEnumeration.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/streams/streamTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/testingMyCode/testingQueues.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/testingMyCode/testingTuples.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/JineshSolutionToMapping/mappingToInt.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/JineshSolutionToMapping/mappingToInt.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/collections/vectors/vectors1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/collections/vectors/vectors1.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,13 +97,13 @@
       <recent name="C:\Users\44799\IdeaProjects\newSBTProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mappingToInt">
-    <configuration name="mappingToInt" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JineshSolutionToMapping.mappingToInt" />
+  <component name="RunManager" selected="Application.tuples">
+    <configuration name="mapMethod" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.maps.mapMethod" />
       <module name="newSBTProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JineshSolutionToMapping.*" />
+          <option name="PATTERN" value="collections.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,7 +111,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnyFunSpec1.A set when empty should have size 0" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="mapsIteration" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.maps.mapsIteration" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="priorityQueues" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.queues.priorityQueues" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tuples" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections.tuples.tuples" />
+      <module name="newSBTProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.tuples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testingTuples.checking tuple data types" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="newSBTProject" />
       <option name="allowRunningInParallel" value="false" />
       <option name="projectPathOnTarget" />
@@ -138,59 +158,19 @@
         <list />
       </option>
       <option name="testKind" value="Test name" />
-      <option name="testClassPath" value="AnyFunSpec1" />
-      <option name="testName" value="A set when empty should have size 0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnyFunSuiteTest.pop is invoked on an empty stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="newSBTProject" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Test name" />
-      <option name="testClassPath" value="AnyFunSuiteTest" />
-      <option name="testName" value="pop is invoked on an empty stack" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FeatureSpecTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="newSBTProject" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Class" />
-      <option name="testClassPath" value="FeatureSpecTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordSpecTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="newSBTProject" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="testKind" value="Class" />
-      <option name="testClassPath" value="WordSpecTest" />
+      <option name="testClassPath" value="testingMyCode.testingTuples" />
+      <option name="testName" value="checking tuple data types" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mappingToInt" />
-        <item itemvalue="ScalaTest.FeatureSpecTest" />
-        <item itemvalue="ScalaTest.AnyFunSuiteTest.pop is invoked on an empty stack" />
-        <item itemvalue="ScalaTest.WordSpecTest" />
-        <item itemvalue="ScalaTest.AnyFunSpec1.A set when empty should have size 0" />
+        <item itemvalue="Application.tuples" />
+        <item itemvalue="ScalaTest.testingTuples.checking tuple data types" />
+        <item itemvalue="Application.priorityQueues" />
+        <item itemvalue="Application.mapMethod" />
+        <item itemvalue="Application.mapsIteration" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665677447843</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week two commit, added testing dependencies and carried out basic proof of concept tests on simple functions with each">
+      <created>1665755342848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665755342848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week two commit, added lots of collections in .collections package" />
-    <option name="LAST_COMMIT_MESSAGE" value="week two commit, added lots of collections in .collections package" />
+    <MESSAGE value="week two commit, added testing dependencies and carried out basic proof of concept tests on simple functions with each" />
+    <option name="LAST_COMMIT_MESSAGE" value="week two commit, added testing dependencies and carried out basic proof of concept tests on simple functions with each" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
