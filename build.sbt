@@ -16,10 +16,12 @@ val flatSpec = "org.scalatest" %% "scalatest-flatspec" % "3.2.14" % Test
 val funSpec="org.scalatest" %% "scalatest-funspec" % "3.2.14" % Test
 val wordSpec="org.scalatest" %% "scalatest-wordspec" % "3.2.14" % Test
 val freeSpec = "org.scalatest" %% "scalatest-freespec" % "3.2.14" % Test
+val jodaTime = "joda-time" % "joda-time" % "2.12.0"
 
 
+libraryDependencies ++=Seq(scalaLogging, utilControl, reflect, xml, scalaTest, flatSpec,
+  funSpec, wordSpec, freeSpec, jodaTime)
 
-libraryDependencies ++=Seq(scalaLogging, utilControl, reflect, xml, scalaTest, flatSpec, funSpec, wordSpec, freeSpec)
 
 
 // https://mvnrepository.com/artifact/com.typesafe.scala-logging/scala-logging
