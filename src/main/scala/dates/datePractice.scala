@@ -5,6 +5,7 @@ import org.joda.time.DateTime
 
 object datePractice extends App {
 
+  //using javas datetime
   var date1 = new Date()
   println(date1)
 

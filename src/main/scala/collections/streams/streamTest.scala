@@ -1,4 +1,4 @@
-package streams
+package collections.streams
 
 import scala.collection.immutable.Stream.cons
 

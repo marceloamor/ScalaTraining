@@ -2,6 +2,8 @@ package collections.maps
 
 import scala.collection.immutable._
 
+//notes found in notebook for collections
+
 object mapsIteration extends App {
 
   var hashMap = HashMap("A" -> "Apple", "B" -> "Ball", "C" -> "Cat")

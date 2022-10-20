@@ -1,7 +1,6 @@
-package testingMyCode
-import org.scalatest.funsuite.AnyFunSuite
 import collections.tuples._
-import collections.tuples.tuples.{tuple1,tuple2,tuple3,tuple4}
+import collections.tuples.tuples.{tuple1, tuple3}
+import org.scalatest.funsuite.AnyFunSuite
 
 
 class testingTuples extends AnyFunSuite {

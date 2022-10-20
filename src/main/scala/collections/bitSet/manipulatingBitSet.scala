@@ -2,6 +2,8 @@ package collections.bitSet
 
 import scala.collection.immutable.BitSet
 
+//notes found in notebook for collections
+
 object manipulatingBitSet extends App {
 
   var nums = BitSet(1,2,3,5,8)

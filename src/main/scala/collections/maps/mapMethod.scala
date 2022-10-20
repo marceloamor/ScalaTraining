@@ -1,5 +1,7 @@
 package collections.maps
 
+//notes found in notebook for collections
+
 object mapMethod extends App {
 
   val s1 = Set(5,1,3,7,9)

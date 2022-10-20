@@ -1,7 +1,4 @@
-package testingMyCode
-
 import org.scalatest.funsuite.AnyFunSuite
-import collections.queues._
 
 import scala.collection.immutable._
 

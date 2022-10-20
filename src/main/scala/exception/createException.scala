@@ -1,5 +1,6 @@
 package exception
 
+
 class divisibleBy2(s:String) extends Exception{
   override def toString: String = super.toString+ " ------> " + s
 }

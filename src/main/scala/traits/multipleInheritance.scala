@@ -1,5 +1,8 @@
 package traits
 
+//Traits are basically the same as java interfaces
+//They are completely abstract classes essentially
+//NOTE that multiple inheritance is possible with traits
 trait Printable{
   def Print()
 }

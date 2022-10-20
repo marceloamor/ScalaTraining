@@ -1,5 +1,7 @@
 package collections.tuples
 
+//notes found in notebook for collections
+//"For when you just need a bag of things" - Scala Cookbook
 object tuples extends App {
   var tuple1 = (1,2,3,4,4,5,6)
   var tuple2 = ("Apple", "Oranges", "Bananas")

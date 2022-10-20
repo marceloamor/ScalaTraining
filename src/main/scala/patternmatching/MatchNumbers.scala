@@ -1,5 +1,6 @@
 package patternmatching
 
+//more efficient that If
 object MatchNumbers extends App {
 var a=1.0
   a match {

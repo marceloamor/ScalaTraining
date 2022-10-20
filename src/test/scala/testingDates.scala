@@ -1,7 +1,5 @@
-package testingMyCode
-import org.scalatest.funsuite.AnyFunSuite
-import dates.datePractice.{newDate, newDate2}
 import org.joda.time.DateTime
+import org.scalatest.funsuite.AnyFunSuite
 
 class testingDates extends AnyFunSuite {
 

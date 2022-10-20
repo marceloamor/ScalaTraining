@@ -2,7 +2,7 @@ package JineshSolutionToMapping
 
 import scala.io.StdIn.{readInt, readLine}
 
-
+//very clever solution to a problem i encountered in my project
 class Student(ID:Int, firstName: String){
   var studentID = ID
   var studentName = firstName

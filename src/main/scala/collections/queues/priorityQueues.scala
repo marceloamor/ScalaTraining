@@ -1,6 +1,8 @@
 package collections.queues
+
 import scala.collection.mutable.PriorityQueue
 
+//notes found in notebook for collections
 
 object priorityQueues extends App {
 

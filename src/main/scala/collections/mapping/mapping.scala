@@ -1,4 +1,4 @@
-package mapping
+package collections.mapping
 
 object mapping {
     def add(x:Int, y:Int) = x + y;

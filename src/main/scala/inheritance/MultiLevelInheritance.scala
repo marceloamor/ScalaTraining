@@ -1,5 +1,6 @@
 package inheritance
 
+//self explanatory here
 trait fromA {
   var salaryTrait = 10
 }

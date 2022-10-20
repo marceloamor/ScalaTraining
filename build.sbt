@@ -17,10 +17,18 @@ val funSpec="org.scalatest" %% "scalatest-funspec" % "3.2.14" % Test
 val wordSpec="org.scalatest" %% "scalatest-wordspec" % "3.2.14" % Test
 val freeSpec = "org.scalatest" %% "scalatest-freespec" % "3.2.14" % Test
 val jodaTime = "joda-time" % "joda-time" % "2.12.0"
+val mySQLDependency = "mysql" % "mysql-connector-java" % "8.0.30"
+
+val AkkaVersion = "2.6.20"
+val allakDependency="com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion
+val akkaNewDep="com.typesafe.akka" %% "akka-actor-testkit-typed" % AkkaVersion % Test
+val akkaStream="com.typesafe.akka" %% "akka-stream" % "2.6.20"
+
 
 
 libraryDependencies ++=Seq(scalaLogging, utilControl, reflect, xml, scalaTest, flatSpec,
-  funSpec, wordSpec, freeSpec, jodaTime)
+  funSpec, wordSpec, freeSpec, jodaTime, mySQLDependency,
+  akkaNewDep, akkaStream, allakDependency)
 
 
 

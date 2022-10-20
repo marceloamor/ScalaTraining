@@ -1,6 +1,6 @@
 package collections.maps
 
-
+//notes found in notebook for collections
 
 object maps1 extends App {
 

@@ -1,5 +1,6 @@
 package higherOrderFunctions
 
+//just practice atm
 object HigherOrderPractice {
   def main(args: Array[String]): Unit = {
     functionExample(25,multiplyBy2)

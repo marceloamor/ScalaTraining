@@ -1,5 +1,6 @@
 package higherOrderFunctions
 
+//function within a function
 object NestedFunctions extends App {
 def add(a:Int,b:Int,c:Int): Int ={
   def add2(x:Int, y:Int): Int={

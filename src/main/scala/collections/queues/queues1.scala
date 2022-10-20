@@ -2,6 +2,8 @@ package collections.queues
 
 import scala.collection.immutable._
 
+//notes found in notebook for collections
+
 object queues1 extends App {
 
   var queue1 = Queue(3,34,5,56,7,78,9,4)

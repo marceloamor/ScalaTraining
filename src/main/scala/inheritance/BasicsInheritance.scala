@@ -1,5 +1,6 @@
 package inheritance
 
+//self explanatory here
 object BasicsInheritance extends App{
   new BusinessPerson
 }

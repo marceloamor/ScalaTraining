@@ -1,5 +1,6 @@
 package constructors
 
+
 class PrimaryConstructors(i:Int,name:String) {
   def showDetails(): Unit = {
     println(i+" " + name)

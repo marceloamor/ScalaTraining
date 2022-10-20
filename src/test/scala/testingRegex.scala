@@ -1,7 +1,4 @@
-package testingMyCode
-
 import org.scalatest.funsuite.AnyFunSuite
-import regex.regex1._
 
 class testingRegex extends AnyFunSuite{
 
