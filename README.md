@@ -37,6 +37,7 @@ First Day Concepts
     7) Long - 64 bit
     8) Double - 64 bit 
     9) Boolean - T/F
+
 Rest of the concepts in Alphabetical Order
 7) Abtract Classes
 8) Akka Streams
