@@ -2,8 +2,10 @@
 
 # ScalaGitRepo
 
-~TABLE OF CONTENTS~
+-TABLE OF CONTENTS-
+
 Further documentation within each class 
+
 
 
 First Day Concepts
