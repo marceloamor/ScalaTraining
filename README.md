@@ -38,46 +38,47 @@ First Day Concepts
     8) Double - 64 bit 
     9) Boolean - T/F
 7) Rest of the concepts in Alphabetical Order
-7) Abtract Classes
-8) Akka Streams
-9) Break Testing
-10) Collections
-    1) Arrays
-    2) BitSets
-    3) Hashsets
-    4) Lists and ListSets
-    5) Maps and Mapping
-    6) Queues
-    7) Sequences
-    8) Streams
-    9) Tuples
-    10) Vectors
-11) Constructors
-11) Control Structures
-12) Dates and Times
-13) Enumeration
-14) Exceptions
-15) External Files
-16) Field Overriding
-17) Higher Order Functions
-18) Inheritance
-19) Logging 
-20) Method Overloading and Overriding
-21) Mix Traits
-22) MultiDimensional Arrays
-23) OOP
-24) Operators
-25) Pattern Matching
-26) Regex
-27) Scala Functions
-28) SQL Connection
-29) Strings
-30) Threading
-31) Traits
-32) Testing
-33) Type Hierarchy
-34) Utilities
-35) Variables
+7) [Abtract Classes](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/abstractClass)
+8) [Akka Streams](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/akkaStreams)
+9) [Break Testing](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/breaktesting)
+10) [Collections](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections)
+    1) [Arrays]()
+    2) [BitSets](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/bitSet)
+    3) [Hashsets](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/hashSets)
+    4) [Lists and ListSets](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/list)
+    5) [Maps and Mapping](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/maps)
+    6) [Queues](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/queues)
+    7) [Sequences](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/sequences)
+    8) [Sets](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/sets)
+    9) [Streams](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/streams)
+    10) [Tuples](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/tuples)
+    11) [Vectors](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/collections/vectors)
+11) [Constructors](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/constructors)
+11) [Control Structures](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/controlstructure)
+12) [Dates and Times](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/dates)
+13) [Enumeration](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/enumeration)
+14) [Exceptions](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/exception)
+15) [External Files](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/externalFiles)
+16) [Field Overriding](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/fieldOverriding)
+17) [Higher Order Functions](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/higherOrderFunctions)
+18) [Inheritance](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/inheritance)
+19) [Logging](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/logTest)
+20) [Method Overloading and Overriding](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/methodOverloading)
+21) [Mix Traits](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/mixTraits)
+22) [MultiDimensional Arrays](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/multidimensionalArray)
+23) [OOP](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/objectoriented)
+24) [Operators](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/operators)
+25) [Pattern Matching](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/patternmatching)
+26) [Regex](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/regex)
+27) [Scala Functions](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/ScalaFunctions)
+28) [SQL Connection](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/SQLConnection)
+29) [Strings](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/strings)
+30) [Threading](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/threading)
+31) [Traits](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/traits)
+32) [Testing](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/thingsToTest)
+33) [Type Hierarchy](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/typeHierarchy)
+34) [Utilities](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/utilities)
+35) [Variables](https://github.com/marceloamor/ScalaTraining/tree/master/src/main/scala/variables)
 
 
 
